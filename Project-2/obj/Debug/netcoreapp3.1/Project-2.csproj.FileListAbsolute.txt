@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\Project-2\Project-2\bin\Debug\netcoreapp3.1\Project-2.exe
+C:\Users\Yasmin\source\repos\Project-2\Project-2\bin\Debug\netcoreapp3.1\Project-2.deps.json
+C:\Users\Yasmin\source\repos\Project-2\Project-2\bin\Debug\netcoreapp3.1\Project-2.runtimeconfig.json
+C:\Users\Yasmin\source\repos\Project-2\Project-2\bin\Debug\netcoreapp3.1\Project-2.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\Project-2\Project-2\bin\Debug\netcoreapp3.1\Project-2.dll
+C:\Users\Yasmin\source\repos\Project-2\Project-2\bin\Debug\netcoreapp3.1\Project-2.pdb
+C:\Users\Yasmin\source\repos\Project-2\Project-2\obj\Debug\netcoreapp3.1\Project-2.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\Project-2\Project-2\obj\Debug\netcoreapp3.1\Project-2.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\Project-2\Project-2\obj\Debug\netcoreapp3.1\Project-2.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\Project-2\Project-2\obj\Debug\netcoreapp3.1\Project-2.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\Project-2\Project-2\obj\Debug\netcoreapp3.1\Project-2.dll
+C:\Users\Yasmin\source\repos\Project-2\Project-2\obj\Debug\netcoreapp3.1\Project-2.pdb
+C:\Users\Yasmin\source\repos\Project-2\Project-2\obj\Debug\netcoreapp3.1\Project-2.genruntimeconfig.cache
